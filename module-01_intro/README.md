@@ -1,6 +1,6 @@
 # Module 1: Introduction (Notebooks)
 
-The Jupyter Notebooks that were uploaded with in the folder with the name `notebooks` are the ones I wrote following the YouTube lessons of **Machine Learning Zoomcamp**.
+The Jupyter Notebooks that were uploaded with in this folder are the ones I wrote following the YouTube lessons of **Machine Learning Zoomcamp**.
 
 If you want to follow the same video in order to learn directly from the author of the course (`Alexey Grigorev`), you can follow the next links:
 
